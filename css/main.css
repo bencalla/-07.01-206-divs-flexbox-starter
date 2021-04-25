@@ -127,6 +127,11 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 1em;
+}
+
+.div-1, .div-2{
+  border-right: solid 1px white;
 }
 
 
